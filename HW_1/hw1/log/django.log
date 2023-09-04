@@ -1,0 +1,5 @@
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 229
+Page "about" is open
+"GET /about/ HTTP/1.1" 200 263
